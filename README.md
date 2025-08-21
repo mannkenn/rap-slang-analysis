@@ -1,2 +1,2 @@
-# rap-topic-modeling
-topic modeling rap songs
+# rap-slang-analysis
+doing sum analysis on rap slang :D
